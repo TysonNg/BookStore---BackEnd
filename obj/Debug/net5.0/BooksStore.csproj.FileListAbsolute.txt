@@ -1,0 +1,155 @@
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\appsettings.json
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\BooksStore.exe
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\BooksStore.deps.json
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\BooksStore.runtimeconfig.json
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\BooksStore.runtimeconfig.dev.json
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\BooksStore.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\ref\BooksStore.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\BooksStore.pdb
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.csproj.AssemblyReference.cache
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.AssemblyInfoInputs.cache
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.AssemblyInfo.cs
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.csproj.CoreCompileInputs.cache
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\staticwebassets\BooksStore.StaticWebAssets.Manifest.cache
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\staticwebassets\BooksStore.StaticWebAssets.xml
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\scopedcss\bundle\BooksStore.styles.css
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.RazorTargetAssemblyInfo.cache
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.csproj.CopyComplete
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\ref\BooksStore.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.pdb
+C:\Users\Minh Nhat\Desktop\API\BooksStore\obj\Debug\net5.0\BooksStore.genruntimeconfig.cache
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Minh Nhat\Desktop\API\BooksStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\appsettings.json
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.exe
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.deps.json
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.runtimeconfig.json
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.runtimeconfig.dev.json
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\ref\BooksStore.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.pdb
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.csproj.AssemblyReference.cache
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.AssemblyInfoInputs.cache
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.AssemblyInfo.cs
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.csproj.CoreCompileInputs.cache
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\staticwebassets\BooksStore.StaticWebAssets.Manifest.cache
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\staticwebassets\BooksStore.StaticWebAssets.xml
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\scopedcss\bundle\BooksStore.styles.css
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.RazorTargetAssemblyInfo.cache
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.csproj.CopyComplete
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\ref\BooksStore.dll
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.pdb
+C:\Users\Minh Nhat\Desktop\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.genruntimeconfig.cache
+D:\BackEnd\BooksStore\bin\Debug\net5.0\appsettings.Development.json
+D:\BackEnd\BooksStore\bin\Debug\net5.0\appsettings.json
+D:\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.exe
+D:\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.deps.json
+D:\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.runtimeconfig.json
+D:\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.runtimeconfig.dev.json
+D:\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\ref\BooksStore.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\BooksStore.pdb
+D:\BackEnd\BooksStore\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\DnsClient.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\SharpCompress.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\BackEnd\BooksStore\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.csproj.AssemblyReference.cache
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.AssemblyInfoInputs.cache
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.AssemblyInfo.cs
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.csproj.CoreCompileInputs.cache
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.MvcApplicationPartsAssemblyInfo.cs
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.MvcApplicationPartsAssemblyInfo.cache
+D:\BackEnd\BooksStore\obj\Debug\net5.0\staticwebassets\BooksStore.StaticWebAssets.Manifest.cache
+D:\BackEnd\BooksStore\obj\Debug\net5.0\staticwebassets\BooksStore.StaticWebAssets.xml
+D:\BackEnd\BooksStore\obj\Debug\net5.0\scopedcss\bundle\BooksStore.styles.css
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.RazorTargetAssemblyInfo.cache
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.dll
+D:\BackEnd\BooksStore\obj\Debug\net5.0\ref\BooksStore.dll
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.pdb
+D:\BackEnd\BooksStore\obj\Debug\net5.0\BooksStore.genruntimeconfig.cache
