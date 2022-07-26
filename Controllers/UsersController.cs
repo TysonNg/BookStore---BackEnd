@@ -15,7 +15,7 @@ using System.Text;
 namespace Users.Controller
 {
     [ApiController]
-    [Authorize]
+
     [Route("api/[controller]/[action]")]
     public class UsersController : ControllerBase
     {
