@@ -5,20 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using BooksServices;
 using UsersServices;
-using Validate;
 using BooksStoreDBConfig;
 using Microsoft.Extensions.Options;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
-
 namespace BooksStore
 {
     public class Startup
@@ -33,6 +29,7 @@ namespace BooksStore
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
             var key = Encoding.ASCII.GetBytes("MY_BIG_SECRET_KEY");
             services.AddAuthentication(x =>
             {
@@ -41,7 +38,7 @@ namespace BooksStore
             })
             .AddJwtBearer(x =>
             {
-                x.Events= new JwtBearerEvents
+                x.Events = new JwtBearerEvents
                 {
                     OnTokenValidated = context =>
                     {
@@ -58,14 +55,14 @@ namespace BooksStore
                     ValidateAudience = false
                 };
             });
-            services.AddCors(options =>
+             services.AddCors(options =>
             {
-                options.AddDefaultPolicy( builder => builder.WithOrigins("http://localhost:3000").AllowAnyMethod().AllowAnyHeader().AllowCredentials().Build());
+                options.AddDefaultPolicy( builder => builder.WithOrigins("http://localhost:3000","https://hieusachcuanhat.vercel.app").AllowAnyMethod().AllowAnyHeader().AllowCredentials().Build());
             });
             services.AddSingleton<BookServices>();
             services.AddSingleton<UserServices>();
             services.Configure<BookstoreDBConfig>(
-       Configuration.GetSection(nameof(BookstoreDBConfig)));
+            Configuration.GetSection(nameof(BookstoreDBConfig)));
 
             services.AddSingleton<IBookstoreDBConfig>(sp =>
                 sp.GetRequiredService<IOptions<BookstoreDBConfig>>().Value);
@@ -91,10 +88,9 @@ namespace BooksStore
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
-            app.UseAuthorization();
-            app.UseAuthorization();
             app.UseCors();
+            app.UseAuthorization();
+            app.UseAuthentication();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

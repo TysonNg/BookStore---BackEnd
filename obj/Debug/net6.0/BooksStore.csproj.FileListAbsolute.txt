@@ -49,3 +49,4 @@ C:\Users\immin\Desktop\BookStore_BE\BookStore---BackEnd\obj\Debug\net6.0\refint\
 C:\Users\immin\Desktop\BookStore_BE\BookStore---BackEnd\obj\Debug\net6.0\BooksStore.pdb
 C:\Users\immin\Desktop\BookStore_BE\BookStore---BackEnd\obj\Debug\net6.0\BooksStore.genruntimeconfig.cache
 C:\Users\immin\Desktop\BookStore_BE\BookStore---BackEnd\obj\Debug\net6.0\ref\BooksStore.dll
+C:\Users\immin\Desktop\BookStore_BE\BookStore---BackEnd\bin\Debug\net6.0\Web.config

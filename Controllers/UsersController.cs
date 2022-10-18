@@ -70,7 +70,7 @@ namespace Users.Controller
                 await _userServices.signUp(user);
                 return CreatedAtAction("GetUser", new { id = user.Id.ToString() }, user);
             }
-            catch (Exception e)
+            catch (Exception )
             {
                 return StatusCode(500, "Đăng ký thất bại!!!");
             }
@@ -91,7 +91,7 @@ namespace Users.Controller
                 object result = new { user = resultToken };
                 return Ok(result);
             }
-            catch (Exception e)
+            catch (Exception )
             {
                 return StatusCode(500, "Đăng nhập thất bại!!");
             }

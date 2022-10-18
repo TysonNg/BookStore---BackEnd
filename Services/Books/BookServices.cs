@@ -57,15 +57,15 @@ namespace BooksServices
             // var filterByCategory = Builders<Book>.Filter.Eq(x => x.category, category); 
             var find = _book.Find(filter);
 
-            int page = querryPage.GetValueOrDefault(0);
+            int currentPage = querryPage.GetValueOrDefault(0);
             int perPage = 8;
-            var total = find.CountDocuments();
+            var totalBooks = find.CountDocuments();
             return new
             {
-                data = find.Skip(page * perPage).Limit(perPage).ToList(),
-                total,
-                page = page + 1,
-                last_page = total / perPage
+                data = find.Skip(currentPage * perPage).Limit(perPage).ToList(),
+                totalBooks,
+                page = currentPage + 1,
+                last_page = totalBooks / perPage
         };
     }
 
