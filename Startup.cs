@@ -70,7 +70,7 @@ namespace BooksStore
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "BooksStore", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "BookDB", Version = "v1" });
             });
 
         }
